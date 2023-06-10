@@ -1,0 +1,90 @@
+{
+    "top": [
+      {
+        "id": 1,
+        "main_color": "grey",
+        "secondary_colors": ["black"],
+        "other_colors": ["orange", "red"],
+        "image": "./static/closet/top_0.jpg"
+      },
+      {
+        "id": 2,
+        "main_color": "black",
+        "secondary_colors": ["blue"],
+        "other_colors": [],
+        "image": "./static/closet/top_1.jpg"
+      },
+      {
+        "id": 3,
+        "main_color": "blue",
+        "secondary_colors": [],
+        "other_colors": [],
+        "image": "./static/closet/top_2.jpg"
+      },
+      {
+        "id": 4,
+        "main_color": "yellow",
+        "secondary_colors": [],
+        "other_colors": ["black"],
+        "image": "./static/closet/top_3.jpg"
+      },
+      {
+        "id": 5,
+        "main_color": "purple",
+        "secondary_colors": [],
+        "other_colors": [],
+        "image": "./static/closet/top_4.jpg"
+      },
+      {
+        "id": 6,
+        "main_color": "black",
+        "secondary_colors": ["yellow", "grey"],
+        "other_colors": [],
+        "image": "./static/closet/top_5.jpg"
+      },
+      {
+        "id": 7,
+        "main_color": "blue",
+        "secondary_colors": ["light grey"],
+        "other_colors": [],
+        "image": "./static/closet/top_6.jpg"
+      },
+      {
+        "id": 8,
+        "main_color": "pink",
+        "secondary_colors": ["blue", "white"],
+        "other_colors": [],
+        "image": "./static/closet/top_7.jpg"
+      }
+    ],
+    "bottom": [
+      {
+        "id": 1,
+        "main_color": "blue",
+        "secondary_colors": ["black"],
+        "other_colors": ["orange", "red"],
+        "image": "static/closet/top_0.jpg"
+      },
+      {
+        "id": 2,
+        "main_color": "blue",
+        "secondary_colors": ["white"],
+        "other_colors": [],
+        "image": "static/closet/top_1.jpg"
+      },
+      {
+        "id": 3,
+        "main_color": "dark grey",
+        "secondary_colors": ["white"],
+        "other_colors": [],
+        "image": "static/closet/top_2.jpg"
+      },
+      {
+        "id": 4,
+        "main_color": "blue",
+        "secondary_colors": ["black"],
+        "other_colors": [],
+        "image": "static/closet/top_3.jpg"
+      }
+    ]
+}
