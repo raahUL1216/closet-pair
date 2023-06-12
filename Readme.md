@@ -69,3 +69,32 @@ bright/muted in warm/cool
 contrasting bold and active
 Blue and orange in vibrant and energetic
 black and white
+
+
+
+SPA
+
+user profile
+add cloth
+list closet
+
+
+Backend
+
+add cloth - remove background, resize, pre process, identify cloth type, generate color palette
+
+Act as a full-stack developer. i want to create a pwa which has 3 pages.
+
+1) upload image with camera/gallery
+- this step will allow user to upload cloth image and back end should pre process this image and add it to user's closet
+
+2) show closet to user
+- show all/top/bottom wear to user based on selected filter
+
+3) show matching cloth pair(s) of top and bottom wear based on cloth's color combination
+
+There are multiple frontend/backend/fullstack frameworks which can be used to achieve this. Like Django, NextJS, VueJS, NestJS etc. Can you suggest a ideal framework(s) or tech stack that would be suitalbe for this use case? Also, elaborate on why suggested tech stack were chosen?
+
+Please note that i would prefer to use python to pre process and classify cloth images.
+
+
